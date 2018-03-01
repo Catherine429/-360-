@@ -79,6 +79,7 @@ window.onload = function () {
                 oLastImg = aImg[l];
             }
         }
+        
         return false;
     };
 
